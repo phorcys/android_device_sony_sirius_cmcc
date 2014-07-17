@@ -19,7 +19,7 @@ include device/sony/shinano-common/BoardConfigCommon.mk
 #-include vendor/sony/sirius_cmcc/BoardConfigVendor.mk
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := D6502,D6503,D6506,D6543,L50T,sirius
+TARGET_OTA_ASSERT_DEVICE := D6502,D6503,D6506,D6543,L50T,sirius,sirius_cmcc
 
 TARGET_SPECIFIC_HEADER_PATH += device/sony/sirius_cmcc/include
 

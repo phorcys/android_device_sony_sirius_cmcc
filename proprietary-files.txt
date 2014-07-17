@@ -58,7 +58,6 @@ bin/illumination_service
 
 # Gps
 app/com.qualcomm.location.apk
-app/com.qualcomm.location.odex
 etc/permissions/com.qualcomm.location.xml
 
 # Misc
@@ -91,6 +90,7 @@ etc/firmware/modem.b27
 etc/firmware/modem.mdt
 
 # NFC
+app/NfcNci.apk
 etc/libnfc-nxp.conf
 etc/libnfc-brcm.conf
 lib/hw/nfc_nci.msm8974.so
@@ -203,23 +203,23 @@ etc/firmware/wlan/bcmdhd/bcmdhd.cal
 
 # l50t
 
-/system/etc/firmware/cmnlib.flist
-/system/etc/firmware/leia_pfp_470.fw
-/system/etc/firmware/leia_pm4_470.fw
-/system/etc/firmware/tzfullseg.b00
-/system/etc/firmware/tzfullseg.b01
-/system/etc/firmware/tzfullseg.b02
-/system/etc/firmware/tzfullseg.b03
-/system/etc/firmware/tzfullseg.flist
-/system/etc/firmware/tzfullseg.mdt
-/system/etc/firmware/tzhdcp.flist
-/system/etc/firmware/tzlibasb.flist
-/system/etc/firmware/tznautilus.flist
-/system/etc/firmware/tzplayrdy.b00
-/system/etc/firmware/tzplayrdy.b01
-/system/etc/firmware/tzplayrdy.b02
-/system/etc/firmware/tzplayrdy.b03
-/system/etc/firmware/tzplayrdy.flist
-/system/etc/firmware/tzplayrdy.mdt
-/system/etc/firmware/tzsuntory.flist
+etc/firmware/cmnlib.flist
+etc/firmware/leia_pfp_470.fw
+etc/firmware/leia_pm4_470.fw
+etc/firmware/tzfullseg.b00
+etc/firmware/tzfullseg.b01
+etc/firmware/tzfullseg.b02
+etc/firmware/tzfullseg.b03
+etc/firmware/tzfullseg.flist
+etc/firmware/tzfullseg.mdt
+etc/firmware/tzhdcp.flist
+etc/firmware/tzlibasb.flist
+etc/firmware/tznautilus.flist
+etc/firmware/tzplayrdy.b00
+etc/firmware/tzplayrdy.b01
+etc/firmware/tzplayrdy.b02
+etc/firmware/tzplayrdy.b03
+etc/firmware/tzplayrdy.flist
+etc/firmware/tzplayrdy.mdt
+etc/firmware/tzsuntory.flist
 
