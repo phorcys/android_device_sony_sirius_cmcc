@@ -1,0 +1,35 @@
+# Make keys in CWM repeatable
+ro.cwm.enable_key_repeat=true
+
+# Graphics
+ro.sf.lcd_density=480
+
+ro.use_data_netmgrd=true
+
+ro.telephony.default_network=20
+
+ro.semc.version.sw=1280-7147
+ro.semc.version.sw_revision=17.1.1.A.0.402
+ro.semc.version.sw_variant=GENERIC
+ro.semc.version.sw_type=user
+
+ro.semc.version.cust=1280-7147
+ro.semc.version.cust_revision=R23A
+ro.somc.customerid=284
+
+############## Product Property Values ##############
+ro.semc.enable.china_miit=true
+ro.semc.content.number=PA2
+
+################# Updating of the SW Version #################
+ro.semc.version.fs_revision=17.1.1.A.0.402
+ro.build.id=17.1.E.1.122
+ro.build.display.id=17.1.1.A.0.402
+
+##### Values from product package metadata #####
+ro.semc.product.model=L50t
+ro.semc.ms_type_id=PM-0746-BV
+ro.semc.version.fs=CMCC-SGLTE
+ro.semc.product.name=Xperia Z2
+ro.semc.product.device=D65
+ro.product.model=L50t
